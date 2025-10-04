@@ -3,6 +3,12 @@ This module demonstrates various text alignment techniques in Python using strin
 String methods (ljust, rjust, center) are used to align only strings, while f-strings can be used for formatting numbers as well.
 
 P.s. formatting numbers or combining multiple styles (like decimals, signs, width), f-strings are more powerful.
+
+I used here 20 as the width for alignment
+used by the text "Align Me" = 8 characters
+Remaining spaces = 20-8 = 12
+# Each side for center alignment = 12 / 2 = 6
+# Each side for left and right alignment = 12
 """
 
 
