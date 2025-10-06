@@ -46,3 +46,10 @@ print(formatted_string)  # Output: Sameh is 25 years old.
 
 # Note: Python strings are immutable, meaning once a string is created, it cannot be changed. Any operation that modifies a string will create a new string.
 # For example, the replace method above does not change the original string 'name', it returns a new string with the replacement.
+
+# You can use triple quotes for multi-line strings
+multi_line_string: str = """This is my Python learning repository.
+It contains various examples and exercises to help me understand Python programming better.
+Happy Coding!, Sameh
+"""
+print(multi_line_string)
