@@ -39,9 +39,17 @@ print(f"Length of name: {name_length}")
 contains_substring: bool = "am" in name  # True if 'am' is in 'Sameh'
 print(f"Contains 'am': {contains_substring}")
 
+# Find the position of a substring
+position: int = name.find("me")  # Returns the starting index of 'me',
+print(f"Position of 'me': {position}")  # (index starts at 0), returns -1 if not found, Here 'me' starts at index 2
+
+# Title case
+title_name: str = "sameh ahmed".title()  # Converts to a title case
+print(f"Title Case: {title_name}")  # Output: Sameh Ahmed
+
 # String formatting using f-strings
 age: int = 25
-formatted_string: str = f"{name} is {age} years old."
+formatted_string: str = f"{name} is {age} years old."  # {} are placeholders for variables
 print(formatted_string)  # Output: Sameh is 25 years old.
 
 # Note: Python strings are immutable, meaning once a string is created, it cannot be changed. Any operation that modifies a string will create a new string.
