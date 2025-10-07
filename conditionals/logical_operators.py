@@ -38,7 +38,7 @@ else:
 # Example of a complex condition using all three logical operators
 age = 22
 has_permission = True
-if (age >= 18 and has_permission) or (age < 18 and not has_permission):
+if (age >= 18 and has_permission) or (age < 18 and not has_permission):  # The second condition is nonsensical but for demonstration only.
     print("Access granted.")
 else:
     print("Access denied.")
