@@ -1,6 +1,7 @@
 """
 This script demonstrates various mathematical functions using Python's built-in capabilities.
 It includes examples of absolute value, rounding, exponentiation, square roots, and logarithms, excluding (Sine, Cosine, and Tangent).
+More functions can be found in the math module documentation: https://docs.python.org/3/library/math.html
 """
 
 # First, we need to import the math module to access the mathematical functions.
