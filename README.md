@@ -1,6 +1,6 @@
 # My personal journey learning Python programming.
 
-This repository documents my learning process as I explore Python programming, it is based on previous knowledge from java programming.
+This repository documents my journey in learning Python programming, building upon my prior experience with Java.
 
 ---
 
