@@ -1,5 +1,6 @@
 """
 This script demonstrates conditional statements in Python using if, elif, and else.
+I will also use more than just if statements to practice logical operators.
 """
 
 # Define a variable

@@ -1,7 +1,7 @@
 """
 This is a simple program to practice conditionals in Python.
 The program calculates the down payment for a house based on the buyer's credit status.
-I will also use more than just if statements to practice logical operators.
+
 Story:
 price of a house is $1,000,000
 if a buyer has good credit:
