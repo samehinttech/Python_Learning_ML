@@ -57,7 +57,7 @@ print(formatted_string)  # Output: Sameh is 25 years old.
 
 # You can use triple quotes for multi-line strings
 multi_line_string: str = """This is my Python learning repository.
-It contains various examples and exercises to help me understand Python programming better.
+It contains various examples and exercises to game_instructions me understand Python programming better.
 Happy Coding!, Sameh
 """
 print(multi_line_string)
