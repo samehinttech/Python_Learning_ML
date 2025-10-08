@@ -8,9 +8,9 @@ guess_limit = 3
 attempts = 0
 print("Welcome to the Guessing Game!")
 print(f"You have {guess_limit} attempts to guess the correct number between 1 and 50.")
-print("Type 'exit' to quit the game.")
+print("Type 'exit' to quit_game the game.")
 
-# type exit to quit the game using while loop
+# type exit to quit_game the game using while loop
 while attempts < guess_limit:
     user_guess = input("Enter your guess: ")
 
