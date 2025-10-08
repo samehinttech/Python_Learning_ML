@@ -8,6 +8,9 @@ This repository documents my journey in learning Python programming, building up
 
 - [Fundamentals](./fundamentals) : Contains basic Python syntax and concepts.
 - [Conditionals](./conditionals) : Covers conditional statements and logic in Python.
+- [Loops](./loops) : Focuses on loops and iteration in Python.
+- [Data Structures](./data_structures) : Explores lists, tuples, dictionaries, and sets in Python.
+
 
 
 
@@ -50,6 +53,8 @@ Happy coding!
 ## Progress Tracker
 - [x] Fundamentals
 - [x] Conditionals
+- [x] Loops
+- [ ] Data Structures
 
 ---
 
@@ -65,4 +70,4 @@ Happy coding!
 
 | **Start Date**  | **Last Updated** |
 |-----------------|------------------|
-| January 3, 2025 | January 7, 2025  |
+| January 3, 2025 | January 8, 2025  |
