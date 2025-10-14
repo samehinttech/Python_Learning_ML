@@ -9,6 +9,10 @@ This script is extended from functions_01.py and includes examples of:
 - Lambda functions
 - Docstrings for documentation
 - Type hints for better code clarity
+
+Important: When dealing with positional and keyword arguments, positional arguments must always come before keyword arguments in function calls.
+Important: Default parameters must always come after non-default parameters in function definitions.
+Example: def func(a, b=2) is valid, but def func(a=2, b) is not.
 """
 
 
