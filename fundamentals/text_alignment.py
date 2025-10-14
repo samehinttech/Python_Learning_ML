@@ -1,5 +1,5 @@
 """
-This module demonstrates various text alignment techniques in Python using string methods and f-string.
+This script for various text alignment techniques in Python using string methods and f-string.
 String methods (ljust, rjust, center) are used to align only strings, while f-strings can be used for formatting numbers as well.
 
 P.s. formatting numbers or combining multiple styles (like decimals, signs, width), f-strings are more powerful.

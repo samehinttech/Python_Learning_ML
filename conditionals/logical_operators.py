@@ -1,5 +1,5 @@
 """
-This module demonstrates the use of logical operators in conditional statements.
+This script demonstrates the use of logical operators in conditional statements.
 It includes examples of 'and', 'or', and 'not' operators.
 
 - 'and' operator: True if both conditions are true.

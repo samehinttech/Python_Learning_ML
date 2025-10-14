@@ -1,5 +1,5 @@
 """
-This demonstrates basic arithmetic operations in Python.
+This script demonstrates basic arithmetic operations in Python.
 It covers addition, subtraction, multiplication, division, and modulus. As well as the operator precedence.
 
 Operator Precedence:

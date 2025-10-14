@@ -1,5 +1,5 @@
 """
-This module demonstrates the use of for loops in Python.
+This script demonstrates the use of for loops in Python.
 It includes examples of iterating over strings and range of a number sequence.
 """
 

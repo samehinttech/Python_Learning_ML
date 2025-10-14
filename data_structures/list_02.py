@@ -1,5 +1,5 @@
 """
-This module demonstrates the use of 2D lists (lists of lists) in Python.
+This script demonstrates the use of 2D lists (lists of lists) in Python.
 Note that modifying a 2D list is similar to modifying a regular list.
 """
 # Example 1: Creating a 2D list (list of lists) and accessing its elements.

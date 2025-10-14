@@ -1,5 +1,5 @@
 """
-This module demonstrates the basics of defining and using functions in Python.
+This script demonstrates the basics of defining and using functions in Python.
 Functions are blocks of reusable code that perform a specific task.
 They help in organizing code, improving readability, and reducing redundancy.
 In this example, we define two simple functions that print messages to the console.

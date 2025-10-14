@@ -1,5 +1,5 @@
 """
-This module demonstrates how to use strings in Python, including declaration, assignment, and various string operations.
+This script demonstrates how to use strings in Python, including declaration, assignment, and various string operations.
 It covers string concatenation, repetition, indexing, slicing, and common string methods.
 """
 # Simple string declaration and assignment

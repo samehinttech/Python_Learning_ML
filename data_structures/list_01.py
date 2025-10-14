@@ -1,5 +1,5 @@
 """
-This module demonstrates basic list operations in Python, including creation, indexing, slicing, and modification of lists.
+This script demonstrates basic list operations in Python, including creation, indexing, slicing, and modification of lists.
 """
 
 # Example 1: Creating a list and accessing its elements.

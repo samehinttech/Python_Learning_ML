@@ -1,5 +1,5 @@
 """
-This module demonstrates type conversion in Python, including implicit and explicit conversions between different data types.
+This script demonstrates type conversion in Python, including implicit and explicit conversions between different data types.
 It covers conversions between integers, floats, strings, and booleans.
 """
 # Using simple variable declarations and assignments

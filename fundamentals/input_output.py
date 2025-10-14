@@ -1,5 +1,5 @@
 """
-This module demonstrates basic input and output operations in Python.
+This script demonstrates basic input and output operations in Python.
 It includes examples of printing to the console and reading user input.
 """
 
