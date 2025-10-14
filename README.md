@@ -6,12 +6,12 @@ This repository documents my journey in learning Python programming, building up
 
 ## Structure of the Repository
 
-- [Fundamentals](./fundamentals) : Contains basic Python syntax and concepts.
-- [Conditionals](./conditionals) : Covers conditional statements and logic in Python.
-- [Loops](./loops) : Focuses on loops and iteration in Python.
-- [Data Structures](./data_structures) : Explores lists, tuples, dictionaries, and sets in Python.
-- [functions](./functions) : Understanding functions and modular programming in Python.
-- [Exceptions](./exceptions) : Error handling and exceptions in Python.
+- [Fundamentals](./fundamentals) : Contains basic syntax and concepts.
+- [Conditionals](./conditionals) : Covers conditional statements and logical operations.
+- [Loops](./loops) : Focuses on loops and iteration.
+- [Data Structures](./data_structures) : Explores lists, tuples, dictionaries, and sets.
+- [Functions](./functions) : Understanding functions and modular programming in Python.
+- [Exceptions](./exceptions) : Error handling and exceptions.
 
 
 
