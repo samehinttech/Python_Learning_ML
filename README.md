@@ -11,8 +11,7 @@ This repository documents my journey in learning Python programming, building up
 - [Loops](./loops) : Focuses on loops and iteration in Python.
 - [Data Structures](./data_structures) : Explores lists, tuples, dictionaries, and sets in Python.
 - [functions](./functions) : Understanding functions and modular programming in Python.
-
-
+- [Exceptions](./exceptions) : Error handling and exceptions in Python.
 
 
 
@@ -57,8 +56,8 @@ Happy coding!
 - [x] Conditionals
 - [x] Loops
 - [x] Data Structures
-- [ ] Functions
-
+- [x] Functions
+- [ ] Error Handling
 ---
 
 ## Learning Resources
