@@ -1,8 +1,10 @@
 """
 This module demonstrates the basics of defining and using functions in Python.
-It includes two simple functions that print messages to indicate their execution flow.
-Each function has no parameters and does not return any value.
-The functions are called sequentially to show how they operate independently.
+Functions are blocks of reusable code that perform a specific task.
+They help in organizing code, improving readability, and reducing redundancy.
+In this example, we define two simple functions that print messages to the console.
+Each function is called to show how they work.
+The functions do not take any parameters and do not return any values.
 """
 
 
