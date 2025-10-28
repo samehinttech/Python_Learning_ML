@@ -12,6 +12,7 @@ This repository documents my journey in learning Python programming, building up
 - [Data Structures](./data_structures) : Explores lists, tuples, dictionaries, and sets.
 - [Functions](./functions) : Understanding functions and modular programming in Python.
 - [Exceptions](./exceptions) : Error handling and exceptions.
+- [OOP](./oop) : Object-oriented programming concepts in Python (Basics).
 
 
 
@@ -57,7 +58,17 @@ Happy coding!
 - [x] Loops
 - [x] Data Structures
 - [x] Functions
-- [ ] Error Handling
+- [x] Error Handling
+- [ ] Object-Oriented Programming (OOP)
+- [ ] Data Visualization and Analysis
+  - [ ] Pandas
+  - [ ] DataFrame Manipulation
+  - [ ] Seaborn
+  - [ ] Matplotlib
+- [ ] Machine Learning Basics
+
+ 
+
 ---
 
 ## Learning Resources
@@ -72,4 +83,4 @@ Happy coding!
 
 | **Start Date**  | **Last Updated** |
 |-----------------|------------------|
-| January 3, 2025 | January 15, 2025 |
+| January 3, 2025 | January 28, 2025 |
