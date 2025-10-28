@@ -13,6 +13,7 @@ This repository documents my journey in learning Python programming, building up
 - [Functions](./functions) : Understanding functions and modular programming in Python.
 - [Exceptions](./exceptions) : Error handling and exceptions.
 - [OOP](./oop) : Object-oriented programming concepts in Python (Basics).
+- [Data Visualization and Analysis](./data_viz) : Introduction to data analysis using libraries like Pandas, Matplotlib, and Seaborn.
 
 
 
