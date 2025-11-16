@@ -1,0 +1,2 @@
+# Merge notebooks without breaking outputs or code
+*.ipynb merge=union
