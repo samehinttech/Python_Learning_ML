@@ -8,3 +8,6 @@ notebook
 pandas
 # openpyxl for Excel file handling
 openpyxl
+
+# To reduce meaningless diffs in Git (install when needed only)
+nbdime
