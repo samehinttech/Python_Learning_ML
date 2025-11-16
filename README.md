@@ -1,11 +1,7 @@
 # My personal journey learning Python programming.
-
 This repository documents my journey in learning Python programming, building upon my prior experience with Java.
-
 ---
-
 ## Structure of the Repository
-
 - [Fundamentals](./fundamentals) : Contains basic syntax and concepts.
 - [Conditionals](./conditionals) : Covers conditional statements and logical operations.
 - [Loops](./loops) : Focuses on loops and iteration.
@@ -13,12 +9,9 @@ This repository documents my journey in learning Python programming, building up
 - [Functions](./functions) : Understanding functions and modular programming in Python.
 - [Exceptions](./exceptions) : Error handling and exceptions.
 - [OOP](./oop) : Object-oriented programming concepts in Python (Basics).
-- [Data Visualization and Analysis](./data_viz) : Introduction to data analysis using libraries like Pandas, Matplotlib, and Seaborn.
-
-
+- [Data Exploration](./data_exploration) : Introduction to data analysis using libraries like Pandas, Matplotlib, and Seaborn.
 
 ---
-
 ## Setup Instructions
 1. Clone the repository
     ```bash
@@ -33,14 +26,9 @@ This repository documents my journey in learning Python programming, building up
    python -m venv .venv
    ```
 4. Activate the virtual environment:
-   - **Windows**:
-     ```bash
-     .venv\Scripts\activate
-     ```
-   - **Mac/Linux**:
-     ```bash
-     source .venv/bin/activate
-     ```
+      ```bash
+      .venv\Scripts\activate
+      ```
 5. Install dependencies (if required): TODO add requirements.txt
    ```bash
    pip install -r requirements.txt
@@ -50,9 +38,7 @@ This repository documents my journey in learning Python programming, building up
    python script_name.py
    ```
 Happy coding!
-
 ---
-
 ## Progress Tracker
 - [x] Fundamentals
 - [x] Conditionals
@@ -61,27 +47,20 @@ Happy coding!
 - [x] Functions
 - [x] Error Handling
 - [ ] Object-Oriented Programming (OOP)
-- [ ] Data Visualization and Analysis
-  - [ ] Pandas
-  - [ ] DataFrame Manipulation
-  - [ ] Seaborn
-  - [ ] Matplotlib
+- [ ] Data Exploration
+    - [ ] Pandas
+    - [ ] DataFrame Manipulation
+    - [ ] Matplotlib
+    - [ ] Seaborn
 - [ ] Machine Learning Basics
 
- 
-
 ---
-
 ## Learning Resources
 - [Official Python Documentation](https://docs.python.org/3/)
-- [School Material, T.Gaddis: Starting out with Python, Global Edition](https://www.pearson.ch/starting-out-with-python-global-edition-9781292467986)
-
-
+- [School Material, T.&nbsp;Gaddis: Starting out with Python, Global Edition](https://www.pearson.ch/starting-out-with-python-global-edition-9781292467986)
 
 ---
-
 ## Timeline
-
-| **Start Date**  | **Last Updated** |
-|-----------------|------------------|
-| January 3, 2025 | January 28, 2025 |
+| **Start Date**  | **Last Updated**  |
+|-----------------|-------------------|
+| October 3, 2025 | November 16, 2025 |
