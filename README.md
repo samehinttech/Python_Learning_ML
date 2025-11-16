@@ -1,16 +1,21 @@
 # My personal journey learning Python programming.
+![Python](https://img.shields.io/badge/Python-3.13-blue.svg)
+![ML](https://img.shields.io/badge/Topic-Machine%20Learning-orange)
+![Jupyter](https://img.shields.io/badge/Tools-Jupyter%20Notebooks-orange)
+![Status](https://img.shields.io/badge/Status-Learning_in%20progress-yellow)
+
+
 This repository documents my journey in learning Python programming, building upon my prior experience with Java.
 ---
 ## Structure of the Repository
-- [Fundamentals](./fundamentals) : Contains basic syntax and concepts.
-- [Conditionals](./conditionals) : Covers conditional statements and logical operations.
-- [Loops](./loops) : Focuses on loops and iteration.
-- [Data Structures](./data_structures) : Explores lists, tuples, dictionaries, and sets.
-- [Functions](./functions) : Understanding functions and modular programming in Python.
-- [Exceptions](./exceptions) : Error handling and exceptions.
-- [OOP](./oop) : Object-oriented programming concepts in Python (Basics).
-- [Data Exploration](./data_exploration) : Introduction to data analysis using libraries like Pandas, Matplotlib, and Seaborn.
-
+- [Fundamentals](./fundamentals): Basic syntax, variables, data types, and I/O.
+- [Conditionals](./conditionals): `if`/`elif`/`else`, comparisons, and logical operators.
+- [Loops](./loops): `for` and `while` loops, iteration patterns.
+- [Data Structures](./data_structures): Lists, tuples, dictionaries, and sets.
+- [Functions](./functions): Defining and calling functions; modular programming.
+- [Exceptions](./exceptions): Error handling with `try`/`except`, `finally`, and custom exceptions.
+- [OOP](./oop): Basic classes, objects, methods, and inheritance.
+- [Data Exploration](./data_exploration): Intro to Pandas, Matplotlib, and Seaborn for simple analysis/visualization.
 ---
 ## Setup Instructions
 1. Clone the repository
@@ -29,7 +34,7 @@ This repository documents my journey in learning Python programming, building up
       ```bash
       .venv\Scripts\activate
       ```
-5. Install dependencies (if required): TODO add requirements.txt
+5. Install dependencies
    ```bash
    pip install -r requirements.txt
    ```
@@ -40,24 +45,16 @@ This repository documents my journey in learning Python programming, building up
 Happy coding!
 ---
 ## Progress Tracker
-- [x] Fundamentals
-- [x] Conditionals
-- [x] Loops
-- [x] Data Structures
-- [x] Functions
-- [x] Error Handling
-- [ ] Object-Oriented Programming (OOP)
-- [ ] Data Exploration
-    - [ ] Pandas
-    - [ ] DataFrame Manipulation
-    - [ ] Matplotlib
-    - [ ] Seaborn
-- [ ] Machine Learning Basics
+- [x] Core Python fundamentals (syntax, control flow, data structures)
+- [x] Functions and error handling
+- [ ] Solid OOP foundations
+- [ ] Practical data analysis (Pandas, Matplotlib, Seaborn)
+- [ ] Machine learning
 
 ---
 ## Learning Resources
 - [Official Python Documentation](https://docs.python.org/3/)
-- [School Material, T.&nbsp;Gaddis: Starting out with Python, Global Edition](https://www.pearson.ch/starting-out-with-python-global-edition-9781292467986)
+- [T.&nbsp;Gaddis: Starting out with Python, Global Edition](https://www.pearson.ch/starting-out-with-python-global-edition-9781292467986)
 
 ---
 ## Timeline
