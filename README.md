@@ -52,7 +52,7 @@ Happy coding!
 - [ ] Machine learning
 
 ---
-## Learning Resources
+## Readings & References
 - [Official Python Documentation](https://docs.python.org/3/)
 - [T.&nbsp;Gaddis: Starting out with Python, Global Edition](https://www.pearson.ch/starting-out-with-python-global-edition-9781292467986)
 
