@@ -1,7 +1,10 @@
 # My personal journey learning Python programming.
 ![Python](https://img.shields.io/badge/Python-3.13-blue.svg)
-![ML](https://img.shields.io/badge/Topic-Machine%20Learning-orange)
 ![Jupyter](https://img.shields.io/badge/Tools-Jupyter%20Notebooks-orange)
+![Pandas](https://img.shields.io/badge/Library-Pandas-green)
+![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-red)
+![Numpy](https://img.shields.io/badge/Library-Numpy-yellowgreen)
+![ML](https://img.shields.io/badge/Topic-Machine%20Learning-orange)
 ![Status](https://img.shields.io/badge/Status-Learning_in%20progress-yellow)
 
 
@@ -15,7 +18,8 @@ This repository documents my journey in learning Python programming, building up
 - [Functions](./functions): Defining and calling functions; modular programming.
 - [Exceptions](./exceptions): Error handling with `try`/`except`, `finally`, and custom exceptions.
 - [OOP](./oop): Basic classes, objects, methods, and inheritance.
-- [Data Exploration](./data_exploration): Intro to Pandas, Matplotlib, and Seaborn for simple analysis/visualization.
+- [Data Exploration](./data_exploration): Intro to Pandas, Matplotlib and Numpy.
+- [Data Visualization](./data_visualization): Creating plots with Matplotlib and Numpy.
 ---
 ## Setup Instructions
 1. Clone the repository
@@ -48,16 +52,19 @@ Happy coding!
 - [x] Core Python fundamentals (syntax, control flow, data structures)
 - [x] Functions and error handling
 - [ ] Solid OOP foundations
-- [ ] Practical data analysis (Pandas, Matplotlib, Seaborn)
+- [ ] Practical data analysis (Pandas, Matplotlib, Numpy)
 - [ ] Machine learning
 
 ---
 ## Readings & References
 - [Official Python Documentation](https://docs.python.org/3/)
 - [T.&nbsp;Gaddis: Starting out with Python, Global Edition](https://www.pearson.ch/starting-out-with-python-global-edition-9781292467986)
+- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [Numpy Documentation](https://numpy.org/doc/)
 
 ---
 ## Timeline
 | **Start Date**  | **Last Updated**  |
 |-----------------|-------------------|
-| October 3, 2025 | November 16, 2025 |
+| October 3, 2025 | November 19, 2025 |
