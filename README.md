@@ -18,7 +18,7 @@ This repository documents my journey in learning Python programming, building up
 - [Functions](./functions): Defining and calling functions; modular programming.
 - [Exceptions](./exceptions): Error handling with `try`/`except`, `finally`, and custom exceptions.
 - [OOP](./oop): Basic classes, objects, methods, and inheritance.
-- [Data Exploration](./data_exploration): Intro to Pandas, Matplotlib and Numpy.
+- [Data Exploration](./data_exploration): Intro to Pandas and Numpy.
 - [Data Visualization](./data_visualization): Creating plots with Matplotlib and Numpy.
 ---
 ## Setup Instructions
